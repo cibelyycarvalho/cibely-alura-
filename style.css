@@ -7,7 +7,7 @@ body {
 }
 .cabecalho {
     background-color: pink;
-    color: palevioletred;
+    color: rgb(204, 129, 154);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -22,19 +22,18 @@ body {
     display: inline-block;
     margin: 0 16px;
     font-size: 16px;
-}
 
 .escola-imagem{
     width: 25%;
 }
 
 .escola{
-    background-image: linear-gradient(#e466d7,rgb(253, 109, 222));
-    color:white;
+    background-color:palevioletred;
+    color:pink;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 10px 0;
 }
 
 .escola-div-conteudo{
@@ -43,7 +42,7 @@ body {
 
 
 .escola-titulo{
-    padding: 24px 0;
+    padding: 20px 5;
 }
 
 .estudante{
